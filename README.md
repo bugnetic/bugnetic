@@ -1,16 +1,17 @@
-### Hi there 👋
+---
 
-<!--
-**bugnetic/bugnetic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://tryhackme.com/p/bugnetic">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/bugnetic.png" />
+  </a>
+  <a href="https://app.hackthebox.com/profile/1559227">
+    <img src="https://www.hackthebox.eu/badge/image/1559227"/>
+  </a>
+  </br>
 
-Here are some ideas to get you started:
+  <a href="https://bugnetic.com">
+    <img src="https://github-readme-stats.vercel.app/api?username=bugnetic&show_icons=true&theme=merko" />
+  </a>
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
