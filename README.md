@@ -1,7 +1,4 @@
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&repeat=false&random=true&width=435&lines=Hello+World!" alt="Typing SVG" /></a>
-</p>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=7500&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&random=true&width=435&lines=Hello+World!)](https://git.io/typing-svg)
 ---
 
 <p align="center">
